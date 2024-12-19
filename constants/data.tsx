@@ -11,7 +11,8 @@ export const data = [
     link: "http://135.237.126.195:8082/",
     solution: "/solutions/ssti",
     image: "ssti.png",
-    description: "The only way to avoid SSTIs is to use protection.",
+    description:
+      "See if you can get the flag from the server through the template!",
   },
   {
     name: "Cross Site Scripting",
